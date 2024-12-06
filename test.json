@@ -1,0 +1,22 @@
+[
+    {
+        "rack_id": "rack1",
+        "sample_id": "sample1.1"
+    },
+    {
+        "rack_id": "rack1",
+        "sample_id": "sample1.2"
+    },
+    {
+        "rack_id": "rack1",
+        "sample_id": "sample1.3"
+    },
+    {
+        "rack_id": "tongyx.rack.NO.A1",
+        "sample_id": "tongyx.NO.A1"
+    },
+    {
+        "rack_id": "tongyx.rack.NO.A1",
+        "sample_id": "tongyx.NO.A2"
+    }
+]

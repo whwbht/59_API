@@ -1,0 +1,140 @@
+[
+    {
+        "rack_id": "rack_1",
+        "sample_id": "0",
+        "rack_world_location": { 
+            "position":[0.403939090, -0.889733337, 0.0],
+            "orientation":[0, 0,  -0.7473709219392113, 0.6643783295127215]
+        }
+    },
+    {
+        "rack_id": "rack_2",
+        "sample_id": "8",
+        "rack_world_location": {
+            "position":[0.403939090, -0.889733337, 0.0], 
+            "orientation":[0, 0,  -0.7473709219392113, 0.6643783295127215]
+        }
+    },
+    {
+        "rack_id": "rack_3",
+        "sample_id": "19",
+        "rack_world_location": {
+            "position":[0.403939090, -0.889733337, 0.0],
+            "orientation":[0, 0,  -0.7473709219392113, 0.6643783295127215]
+        }
+    },
+    {
+        "rack_id": "rack_4",
+        "sample_id": "23",
+        "rack_world_location": {
+            "position":[0.403939090, -0.889733337, 0.0],
+            "orientation":[0, 0,  -0.7473709219392113, 0.6643783295127215]
+        }
+    },{
+        "rack_id": "rack_5",
+        "sample_id": "0",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "1",
+        "sample_id": "50",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "1",
+        "sample_id": "51",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "1",
+        "sample_id": "52",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "1",
+        "sample_id": "53",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "1",
+        "sample_id": "54",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "2",
+        "sample_id": "17",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "2",
+        "sample_id": "18",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "2",
+        "sample_id": "19",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "2",
+        "sample_id": "20",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "3",
+        "sample_id": "27",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "3",
+        "sample_id": "28",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "3",
+        "sample_id": "29",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "3",
+        "sample_id": "30",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    },{
+        "rack_id": "3",
+        "sample_id": "31",
+        "rack_world_location": {
+            "position":[1,2, 3],
+            "orientation":[4, 5, 6, 7]
+        }
+    }
+    
+]

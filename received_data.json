@@ -1,0 +1,168 @@
+{
+    "name": "50063d90-64ff-40e5-b0fd-1a675089a269",
+    "inspection_id": "50063d90-64ff-40e5-b0fd-1a675089a269",
+    "map_name": "01地图",
+    "map_id": "001",
+    "time": "2024-11-20 19:23:58",
+    "tasks": [
+        {
+            "racks": [
+                {
+                    "rack_id": "1",
+                    "samples": [
+                        {
+                            "sample_id": "50",
+                            "collection_task": {
+                                "sample_name": "1859150445465935872",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "51",
+                            "collection_task": {
+                                "sample_name": "1859150445465935873",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "52",
+                            "collection_task": {
+                                "sample_name": "1859150445465935874",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "53",
+                            "collection_task": {
+                                "sample_name": "1859150445465935875",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "54",
+                            "collection_task": {
+                                "sample_name": "1859150445465935876",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "rack_id": "2",
+                    "samples": [
+                        {
+                            "sample_id": "17",
+                            "collection_task": {
+                                "sample_name": "1859150445465935877",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "18",
+                            "collection_task": {
+                                "sample_name": "1859150445465935878",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "19",
+                            "collection_task": {
+                                "sample_name": "1859150445465935879",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "20",
+                            "collection_task": {
+                                "sample_name": "1859150445465935880",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "rack_id": "3",
+                    "samples": [
+                        {
+                            "sample_id": "27",
+                            "collection_task": {
+                                "sample_name": "1859150445465935881",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "28",
+                            "collection_task": {
+                                "sample_name": "1859150445465935882",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "29",
+                            "collection_task": {
+                                "sample_name": "1859150445465935883",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "30",
+                            "collection_task": {
+                                "sample_name": "1859150445465935884",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        },
+                        {
+                            "sample_id": "31",
+                            "collection_task": {
+                                "sample_name": "1859150445465935885",
+                                "parameters": {
+                                    "resolution": "1920x1080",
+                                    "format": "JPEG"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

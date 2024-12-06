@@ -1,0 +1,254 @@
+[
+    {
+        "rack_id": "1",
+        "sample_id": "50",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935872"
+    },
+    {
+        "rack_id": "1",
+        "sample_id": "51",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935873"
+    },
+    {
+        "rack_id": "1",
+        "sample_id": "52",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935874"
+    },
+    {
+        "rack_id": "1",
+        "sample_id": "53",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935875"
+    },
+    {
+        "rack_id": "1",
+        "sample_id": "54",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935876"
+    },
+    {
+        "rack_id": "2",
+        "sample_id": "17",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935877"
+    },
+    {
+        "rack_id": "2",
+        "sample_id": "18",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935878"
+    },
+    {
+        "rack_id": "2",
+        "sample_id": "19",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935879"
+    },
+    {
+        "rack_id": "2",
+        "sample_id": "20",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935880"
+    },
+    {
+        "rack_id": "3",
+        "sample_id": "27",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935881"
+    },
+    {
+        "rack_id": "3",
+        "sample_id": "28",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935882"
+    },
+    {
+        "rack_id": "3",
+        "sample_id": "29",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935883"
+    },
+    {
+        "rack_id": "3",
+        "sample_id": "30",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935884"
+    },
+    {
+        "rack_id": "3",
+        "sample_id": "31",
+        "rack_world_location": {
+            "position": [
+                1,
+                2,
+                3
+            ],
+            "orientation": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "sampe_name": "1859150445465935885"
+    }
+]

@@ -1,0 +1,7 @@
+client.py文件为客户端请求json数据的
+
+robot_server.py文件接收客户端请求的json数据并保存到 received_data.json
+
+extracted_data.py 提取 received_data.json关键信息 并保存
+
+global_location_sample.json 存储试验架地理位置信息
